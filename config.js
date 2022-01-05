@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh người yêu <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu😍',
     reply: 'tại vì anh là số 1 anh là siêu nhân🤣🤣',
-    mess: 'Hì anh biết mà 🥰. Yêu em với cả trái tim này 😘😘',
+    mess: 'Hì anh biết mà 🥰. Yêu em với cả trái tim này 33😘😘',
     messDesc: 'Tối nay hát cho anh nghe nhé nhớ em hát quá,giờ nhắn tin cho anh đi.',
     btnAccept: 'Okiiiii lun anhh<3',
     messLink: 'https://www.facebook.com/profile.php?id=100043270928497' //link mess của các bạn. VD: https://m.me/nam.nodemy
